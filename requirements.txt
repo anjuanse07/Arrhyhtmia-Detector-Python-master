@@ -1,0 +1,11 @@
+matplotlib==3.5.1
+neurokit2==0.2.2
+numpy==1.22.1
+openpyxl==3.1.1
+paho_mqtt==1.6.1
+pandas==1.4.2
+PyQt5==5.15.9
+PyQt5_sip==12.12.1
+pyserial==3.5
+scikit_fuzzy==0.4.2
+scipy==1.8.0
